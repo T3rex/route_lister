@@ -1,0 +1,23 @@
+{
+  "name": "list_routes",
+  "version": "1.0.0",
+  "description": "List all the express routes in a project",
+  "main": "index.js",
+  "bin": {
+    "myroutes": "./bin/index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "route",
+    "list",
+    "router",
+    "routes"
+  ],
+  "author": "Aditya",
+  "license": "MIT",
+  "dependencies": {
+    "cli-table": "^0.3.11"
+  }
+}
