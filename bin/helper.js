@@ -49,5 +49,5 @@ function extractRoutes(fileData){
 }
 
 module.exports ={
-    extractRouteList,extractRoutes,readDirectory
+    extractRouteList,readDirectory
 }
